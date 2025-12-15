@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding-top: 50px;
+}
+#poster{
+    border: 40px ;
+    width: 300px;
+    margin: auto;
+}
+#poster-image{
+    width: 100%;
+    border: 5px solid black
+}
+#poster-title{
+    font-size: 1rem;
+    margin-top: 20px;
+    letter-spacing: 1px;
+    font-family: cursive;
+}
+#poster-caption{
+    font-size: rem;
+    margin-top: 10px;
+}
