@@ -1,0 +1,30 @@
+/* Write your code here: */
+/* ----- group----- */
+
+h1,h2{
+    color: blueviolet
+}
+/* --------child--------- */
+div >p{
+    color: firebrick;
+}
+/* .box{
+    color: firebrick;
+} */
+ /* ---------decentant----- */
+
+div li{
+    color: blue;
+}
+/* .box li{
+    color: blue;
+}
+ */
+ /* ----------chaining---------- */
+li.done{
+    color: seagreen;
+}
+/* -----------combining------- */
+ul p.done{
+    font-size: 0.5rem;
+}
